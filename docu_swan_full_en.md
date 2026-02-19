@@ -14,6 +14,8 @@
 
 ![Origami Swan 1](./img/swan_01.png)<!-- style="width:350px" -->
 
+<div style="break-before: page;"></div>
+
 ### Step 2 – Forming the Kite Base
 
 5. Fold the **top right edge** inward so it aligns exactly with the **center crease**. Crease firmly.
@@ -23,6 +25,8 @@
 ![Origami Swan 2](./img/swan_02.png)<!-- style="float:left; width:350px" -->
 
 ![Origami Swan 2](./img/swan_02a.png)<!-- style="width:350px; padding-top: 120px; padding-left: 120px" -->
+
+<div style="break-before: page;"></div>
 
 ### Step 3 – Narrowing the Kite
 
@@ -34,6 +38,8 @@
 ![Origami Swan 3](./img/swan_03.png)
 
 ![Origami Swan 4](./img/swan_04.png)<!-- style="width:350px" -->
+
+<div style="break-before: page;"></div>
 
 ### Step 4 – Forming the body
 
@@ -49,7 +55,7 @@
 
 ![Origami Swan 7](./img/swan_07.png)<!-- style="width:350px" -->
 
----
+<div style="break-before: page;"></div>
 
 ### Step 4 – Forming the Neck and Head
 
@@ -62,6 +68,8 @@
 18. Pull up the long part below the small pointed tip. Press at the base of the long part to set new crease.
 
 ![Origami Swan 9](./img/swan_09.png)
+
+<div style="break-before: page;"></div>
 
 ### Step 5 – Final Adjustments
 
